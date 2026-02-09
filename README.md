@@ -1,5 +1,15 @@
 # Book Catalog API with Authentication
 
+**Student Name:** Hariharan P
+
+**Project Name:** Backend Module API
+
+**GitHub Repository:** https://github.com/Hariharanpugazh/backend-module
+
+**Backend Deployment:** https://backend-module-go8p.onrender.com
+
+---
+
 A RESTful API for managing a book catalog with JWT-based user authentication. Built with Node.js, Express, MongoDB, and Mongoose.
 
 ## Tech Stack
